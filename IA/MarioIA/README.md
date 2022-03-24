@@ -14,10 +14,12 @@ Q1 holds an already trained agent, while Q2 can be used to train new agents.</p>
 <h5>Commands</h5>
 <p>To train the agent: 
 train.py best - Train the agent stored in Q1.
+
 train.py train - Generate a new agent and store it in Q2.
 
 To play:
 play.py best - Play the already trained agent (Q1).
+
 play.py train - Play the new agent (Q2).</p>
 
 <h3>References</h3>
