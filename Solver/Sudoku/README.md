@@ -9,6 +9,7 @@
 <p>The algorithm receives sudoku games with txt input format. Each row, with 81 positions,
 represents a board. You '.' represent empty spaces.
 So a valid entry would be: 
+
 ```
 .......2143.......6........2.15..........637...........68...4.....23........7....
 ```
